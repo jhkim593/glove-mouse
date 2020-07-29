@@ -21,4 +21,5 @@
 <br/><br/>
 ![image](https://user-images.githubusercontent.com/53510936/88827299-c0870e00-d204-11ea-959c-337393212a3a.png)
 
-
+3.작동영상
+https://www.youtube.com/watch?v=GFvBI9RQfNk
