@@ -26,21 +26,21 @@
 ![image](https://user-images.githubusercontent.com/53510936/88827299-c0870e00-d204-11ea-959c-337393212a3a.png)
 <br/><br/>
 3.기능구현
-<br/>
+<br/><br/>
 -마우스 커서 이동 구현
 <br/>
 ![image](https://user-images.githubusercontent.com/53510936/88833725-adc50700-d20d-11ea-8205-4bbd98d4ebcc.png)
 <br/>
 Mpu - 6050과 아두이노 레오나르도 보드를 연결하여 아두이노 IDE를 통해
 마우스의 커서 컨트롤하는 시스템을 구현하였다. x,y,z축은 센서를 움직일 때마다 즉각적으로 변하며 변하는 값을 이용하여 마우스 커서를 이동시킨다.
-<br/>
+<br/><br/>
 -플렉스 센서 전위차 확인
 <br/>
 ![image](https://user-images.githubusercontent.com/53510936/88833380-25defd00-d20d-11ea-9cd7-471884fb0990.png)
 <br/>
 Flex 센서는 저항값에 따라 항상 구부렸을 때와 아닐 때의 전위가 다르므로 
 테스트를 통해 센서값의 범위를 찾아야한다. 이는 레오나르도 보드로 할 필요는 없으며 UNO보드를 통해 실시 했으며, 적당하 범위를 찾은 후 if문과 Mouse.click(MOUSE_LEFT); ,Mouse.click(MOUSE_RIGHT);을 이용하여 마우스 클릭을 구현하게된다.
-<br/>
+<br/><br/>
 -송신부,수신부 무선통신 연결확인
 <br/>
 ![image](https://user-images.githubusercontent.com/53510936/88833426-342d1900-d20d-11ea-963a-714591d5fdcf.png)
