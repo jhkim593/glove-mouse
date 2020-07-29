@@ -14,6 +14,7 @@
 
 
 수신부
+
 ![image](https://user-images.githubusercontent.com/53510936/88827408-e3b1bd80-d204-11ea-83df-f076aeed9d84.png)
 
 
@@ -24,6 +25,7 @@
 
 
 송신부
+
 ![image](https://user-images.githubusercontent.com/53510936/88827299-c0870e00-d204-11ea-959c-337393212a3a.png)
 
 
