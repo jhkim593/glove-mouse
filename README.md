@@ -29,7 +29,7 @@
 </br>
 -마우스 커서 이동 구현
 </br>
-![image](https://user-images.githubusercontent.com/53510936/88833356-1bbcfe80-d20d-11ea-99e5-e145664250ab.png
+![image](https://user-images.githubusercontent.com/53510936/88833725-adc50700-d20d-11ea-8205-4bbd98d4ebcc.png)
 Mpu - 6050과 아두이노 레오나르도 보드를 연결하여 아두이노 IDE를 통해
 마우스의 커서 컨트롤하는 시스템을 구현하였다. x,y,z축은 센서를 움직일 때마다 즉각적으로 변하며 변하는 값을 이용하여 마우스 커서를 이동시킨다.
 </br>
